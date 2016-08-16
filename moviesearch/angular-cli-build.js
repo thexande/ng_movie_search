@@ -20,3 +20,5 @@ module.exports = function(defaults) {
     ]
   });
 };
+
+(woot) => console.log(woot)
